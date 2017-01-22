@@ -5,6 +5,11 @@ In this video we are going to create a flask icon with chemical in it. We are go
 # Project Files
 
 1. Adobe Illustrator Files
---- Will Be Uploaded ----
+https://goo.gl/xim1b8
+
 2. Video 
-----Will Be Uploaded -----
+https://goo.gl/fZBL97
+
+3. Output File
+https://goo.gl/E2fQNE
+
